@@ -256,7 +256,7 @@ Contributions welcome! Please open an issue or submit a pull request.
 
 ## License
 
-MIT License - see LICENSE file for details
+ see LICENSE file for details
 
 ## Citation
 
